@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS to sh
 
 ## 🚀 Live Demo
 
-[Visit My Portfolio](https://tushar-sinha-portfolio.vercel.app)
+[Visit My Portfolio](my-portfolio-nu-lovat-87.vercel.app)
 
 ## ✨ Features
 
