@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, education, certifications, and professional experience.
 
-![Portfolio Preview](public/preview.png)
-
 ## 🚀 Live Demo
 
 [Visit My Portfolio]([https://tushar-sinha-portfolio.vercel.app](https://my-portfolio-nu-lovat-87.vercel.app/))
