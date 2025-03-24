@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, education, certifications, and professional experience.
 
-![Portfolio Preview]
+![Portfolio Preview](public/preview.png)
 
 ## 🚀 Live Demo
 
-[Visit My Portfolio]([(https://my-portfolio-nu-lovat-87.vercel.app/)])
+[Visit My Portfolio](https://tushar-sinha-portfolio.vercel.app)
 
 ## ✨ Features
 
@@ -34,8 +34,7 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS to sh
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Typography**: Inter font (Google Fonts)
 - **Deployment**: Vercel
-
-
+- 
 ## 📝 Project Structure
 
 ```
@@ -50,18 +49,11 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS to sh
 ├── next.config.mjs  # Next.js configuration
 ├── tailwind.config.ts  # Tailwind CSS configuration
 └── ...              # Other configuration files
+```
 
-## 🔄 Future Updates
+## 🚀 Deployment
 
-- Blog section
-- Project filtering capabilities
-- More interactive elements
-- Improved animations
-- Multilingual support
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is set up for easy deployment on Vercel:
 
 ## 📞 Contact
 
@@ -71,4 +63,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by Tushar Sinha 
+Built with ❤️ by Tushar Sinha
