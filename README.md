@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, education, certifications, and professional experience.
 
-![Portfolio Preview](public/images/profile.jpg)
+![Portfolio Preview]
 
 ## 🚀 Live Demo
 
-[Visit My Portfolio](my-portfolio-nu-lovat-87.vercel.app)
+[Visit My Portfolio]((https://my-portfolio-nu-lovat-87.vercel.app/))
 
 ## ✨ Features
 
